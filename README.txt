@@ -1,0 +1,1 @@
+Open index.html. Keep profile.jpg in the same folder. Replace with a transparent-background professional portrait later if desired.
